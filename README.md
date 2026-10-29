@@ -19,8 +19,7 @@ Each instance is a 1,024-sample (5.12 s) segment with 62 channels. The classifie
 
 ## Dataset
 
-The paper uses SEED (3 emotions, 15 subjects). SEED needs an application to the BCMI lab, so this project uses a Kaggle copy of **SEED-IV** (`phhasian0710/seed-iv`). Its provenance and licence have not been verified.
-
+The paper uses SEED (3 emotions, 15 subjects). SEED needs an application to the BCMI lab, so this project uses a Kaggle copy of **SEED-IV** (`phhasian0710/seed-iv`).
 | | Paper | This project |
 |---|---|---|
 | Dataset | SEED | SEED-IV subset |
