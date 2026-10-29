@@ -40,7 +40,6 @@ Accuracy (chance = 0.25):
 | SVM | 0.889 | 0.728 | 0.506 | 0.343 |
 | Bagging + RF | 0.996 | 0.641 | 0.425 | 0.323 |
 
-**The paper's 99.6% was not reproduced.** The datasets are not equivalent (3 vs 4 classes, 15 vs 5 subjects), so the paper's numbers are a reference, not a target.
 
 Key observations:
 - Random 10-fold splits put segments from the same trial in both training and test sets, so they overestimate real performance.
