@@ -3,7 +3,7 @@
 
 A re-implementation of **Subasi & Qaisar (2024), "EEG-based emotion recognition using modified covariance and ensemble classifiers"** (*Journal of Ambient Intelligence and Humanized Computing*, 15:575–591, [doi:10.1007/s12652-023-04715-5](https://doi.org/10.1007/s12652-023-04715-5)).
 
-**Author:** Anuj Kumar Sarki
+**Author:** Anuj Kumar
 
 ## Pipeline
 
