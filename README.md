@@ -31,7 +31,7 @@ The paper uses SEED (3 emotions, 15 subjects). SEED needs an application to the 
 
 ## Results
 
-Accuracy (chance = 0.25):
+Accuracy:
 
 | Model | Paper (SEED, 10-fold) | Random 10-fold | Trial-grouped 5-fold | Leave-one-subject-out |
 |---|---|---|---|---|
@@ -40,6 +40,7 @@ Accuracy (chance = 0.25):
 | SVM | 0.889 | 0.728 | 0.506 | 0.343 |
 | Bagging + RF | 0.996 | 0.641 | 0.425 | 0.323 |
 
+The chance is less one out of 4 emotions which is 0.25:
 
 Key observations:
 - Random 10-fold splits put segments from the same trial in both training and test sets, so they overestimate real performance.
